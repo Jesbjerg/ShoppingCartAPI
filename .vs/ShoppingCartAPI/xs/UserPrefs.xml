@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{4F251E30-6087-40C7-BD44-29C720DDB886}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingCartAPI/.gitignore">
+    <Files>
+      <File FileName="ShoppingCartAPI/Controllers/ProductsController.cs" Line="90" Column="29" />
+      <File FileName="ShoppingCartAPI/Models/Product.cs" />
+      <File FileName="ShoppingCartAPI/Program.cs" />
+      <File FileName="ShoppingCartAPI/Startup.cs" />
+      <File FileName="ShoppingCartAPI/appsettings.json" Line="1" Column="1" />
+      <File FileName="ShoppingCartAPI/Controllers/WishListController.cs" />
+      <File FileName="ShoppingCartAPI/Controllers/UserController.cs" />
+      <File FileName="ShoppingCartAPI/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" />
+      <File FileName="ShoppingCartAPI/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="ShoppingCartAPI/.gitignore" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShoppingCartAPI" expanded="True">
+            <Node name="ShoppingCartAPI" expanded="True">
+              <Node name=".gitignore" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShoppingCartAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
